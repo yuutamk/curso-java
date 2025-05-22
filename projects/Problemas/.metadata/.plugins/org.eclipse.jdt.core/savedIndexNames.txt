@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+/run/media/yuutamk/162E99482E992233/xampp/htdocs/Yuuta/Cursos/Java/Problemas/.metadata/.plugins/org.eclipse.jdt.core
+4131332157.index
+2277144229.index
+352280625.index
+993404936.index
+1889058099.index
+2614275051.index
+1865797976.index

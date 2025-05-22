@@ -1,0 +1,23 @@
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int base = 1;
+		int altura = 2;
+		
+		float resultado;
+		
+		int suma = base + altura;
+		int resta = base - altura;
+		int multiplicacion = base * altura;
+		int division = base / altura;
+		int modulo = base % altura;
+		
+		System.out.println(
+				"suma: " + suma + "\n" + "resta: " + resta + "\n" + "multiplicacion: " + multiplicacion + "\n" + "división: " + division + "\n" + "modulo: " + modulo
+				);
+		
+	}
+
+}

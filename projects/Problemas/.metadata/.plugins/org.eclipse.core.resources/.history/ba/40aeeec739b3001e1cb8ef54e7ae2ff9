@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+public class main {
+
+	public static void main(String[] args) {
+		
+		System.out.print("digite 2 numeros");
+		Scanner entrada = new Scanner(System.in);
+		
+		
+		
+		int base = entrada.nextFloat();
+		int altura = entrada.nextFloat();
+		
+	
+		
+		int suma = base + altura;
+		int resta = base - altura;
+		int multiplicacion = base * altura;
+		float division = (float)base / (float)altura;
+		int modulo = base % altura;
+		
+		System.out.println("suma: " + suma);
+		System.out.println("resta: " + resta);
+		System.out.println("multiplicación: " + multiplicacion);
+		System.out.println("división: " + division);
+		System.out.println("módulo: " + modulo);
+		
+	}
+
+}
