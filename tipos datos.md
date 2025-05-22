@@ -24,6 +24,8 @@ Guardan números completos. Elige según el rango necesario:
 - Usa `L` en literales `long`: `long valor = 123456789L;`.  
 - Desbordamiento: Si superas el rango, el valor se "reinicia" (ej: `byte 127 + 1 = -128`).  
 
+![Representación gráfica de tipos enteros](./img_doc/img_primitivos.png)  
+
 ---
 
 ### **2. Decimales: Con Punto Flotante**  
@@ -37,6 +39,8 @@ Para números con precisión fraccional:
 **⚠️ Notas Clave**:  
 - Usa `F` en literales `float`: `float precio = 19.99F;`.  
 - `double` es el predeterminado (no requiere sufijo).  
+
+![Comparación de float y double](./img_doc/img_float_double.png)  
 
 ---
 
