@@ -1,0 +1,22 @@
+cursos gratis de programación   -----> https://www.sololearn.com/es/learn
+                                -----> https://www.w3schools.com/
+
+Apuntes                         -----> https://docs.google.com/document/d/1CmllLKd35eKbXnhbimAtuhmvHGIquHhwGLXBWH1M9BE/edit?tab=t.0#heading=h.ijxgqeaaxr65
+
+
+--- Editores Java Online ---
+jdoodle                         ------> https://www.jdoodle.com/online-java-compiler/
+programiz                       ------> https://www.programiz.com/java-programming/online-compiler/
+interviewbit                    ------> https://www.interviewbit.com/online-java-compiler/
+
+--- JDK ---
+Adoptium                        -----> https://adoptium.net/es/
+OpenJDK                         -----> https://openjdk.org/
+Oracle JDK                      -----> https://education.oracle.com/es/oracle-certification-path/product_267
+Amazon AWS                      -----> https://aws.amazon.com/es/corretto/?filtered-posts.sort-by=item.additionalFields.createdDate&filtered-posts.sort-order=desc
+
+
+--- IDE ---
+IntellijIDEA                    -----> https://www.jetbrains.com/idea/download/
+NetBeans                        -----> https://netbeans.apache.org/front/main/download/
+Eclipse                         -----> https://www.eclipse.org/downloads/
